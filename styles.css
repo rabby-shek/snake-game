@@ -1,0 +1,16 @@
+#gameContainer {
+    text-align: center;
+}
+
+#gameCanvas {
+    border: 3px solid #000;
+}
+
+.score {
+    font-size: 25px;
+}
+
+#resetBtn {
+    font-size: 25px;
+    cursor: pointer;
+}

@@ -1,16 +1,18 @@
-#gameContainer {
-    text-align: center;
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
 }
 
-#gameCanvas {
+#gameCanvas{
+    display: block;
+    background-color: #000;
     border: 3px solid #000;
-}
-
-.score {
-    font-size: 25px;
-}
-
-#resetBtn {
-    font-size: 25px;
-    cursor: pointer;
 }

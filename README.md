@@ -31,3 +31,5 @@ A simple Snake Game built using HTML, CSS, and JavaScript. The player controls a
 ├── style.css        # CSS for styling
 ├── script.js        # JavaScript game logic
 └── README.md        # Project documentation
+
+Live Link : `https://rabby-shek.github.io/snake-game/`
